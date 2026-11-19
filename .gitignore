@@ -1,0 +1,5 @@
+config.json
+prices.db
+*.csv
+__pycache__/
+.env
